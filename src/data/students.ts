@@ -19,7 +19,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/hGM03yCd/photo-2025-06-16-15-47-51.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-47-51.jpg",
     "downloadUrl": "https://i.postimg.cc/69x1qFnY/photo-2025-06-16-15-47-51.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -31,7 +31,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/SNXtYhgt/photo-2025-06-16-15-46-03.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-46-03.jpg",
     "downloadUrl": "https://i.postimg.cc/hgMFw4Tg/photo-2025-06-16-15-46-03.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -43,7 +43,7 @@ export const students: Student[] = [
     "age": 16,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/26K7CqNj/photo-2025-06-16-15-48-36.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-48-36.jpg",
     "downloadUrl": "https://i.postimg.cc/pW2GY80j/photo-2025-06-16-15-48-36.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -55,7 +55,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/VstKzRv3/photo-2025-06-16-15-49-26.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-49-26.jpg",
     "downloadUrl": "https://i.postimg.cc/3hSVCfTJ/photo-2025-06-16-15-49-26.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -67,7 +67,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/vZYh1k8q/photo-2025-06-17-20-50-16.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-50-16.jpg",
     "downloadUrl": "https://i.postimg.cc/X4FzP6Rb/photo-2025-06-17-20-50-16.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -79,7 +79,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/DfXNr9rB/photo-2025-06-17-20-33-54.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-33-54.jpg",
     "downloadUrl": "https://i.postimg.cc/pvGtHxpb/photo-2025-06-17-20-33-54.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -91,7 +91,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/6pmV13wR/photo-2025-06-17-20-40-15.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-40-15.jpg",
     "downloadUrl": "https://i.postimg.cc/QjX6C9y6/photo-2025-06-17-20-40-15.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -103,7 +103,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/Hngjr02H/photo-2025-06-17-20-32-34.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-32-34.jpg",
     "downloadUrl": "https://i.postimg.cc/vY1nS3x1/photo-2025-06-17-20-32-34.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -115,7 +115,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/Y0x21F2M/photo-2025-06-16-15-38-43.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-38-43.jpg",
     "downloadUrl": "https://i.postimg.cc/WNBDcmQF/photo-2025-06-16-15-38-43.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -127,7 +127,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/g21pLsy3/photo-2025-06-16-15-42-18.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-42-18.jpg",
     "downloadUrl": "https://i.postimg.cc/4XxxMFm2/photo-2025-06-16-15-42-18.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -139,7 +139,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/Dw4khsV0/photo-2025-06-16-15-43-20.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-43-20.jpg",
     "downloadUrl": "https://i.postimg.cc/DnB2qdBr/photo-2025-06-16-15-43-20.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -151,7 +151,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/dVfsmwFk/photo-2025-06-16-15-39-35.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-39-35.jpg",
     "downloadUrl": "https://i.postimg.cc/SmSn4xtr/photo-2025-06-16-15-39-35.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -163,7 +163,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/X7H444pH/photo-2025-06-16-15-41-29.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-41-29.jpg",
     "downloadUrl": "https://i.postimg.cc/CSY1CKYg/photo-2025-06-16-15-41-29.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -175,7 +175,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/zBZq67Vq/photo-2025-06-16-15-40-36.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-40-36.jpg",
     "downloadUrl": "https://i.postimg.cc/SyjjXt4Y/photo-2025-06-16-15-40-36.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -187,7 +187,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/rprf31H9/photo-2025-06-16-11-12-52.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-12-52.jpg",
     "downloadUrl": "https://i.postimg.cc/Mzsgctbg/photo-2025-06-16-11-12-52.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -199,7 +199,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/XqfSW-MDQ/photo-2025-06-16-11-10-23.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-10-23.jpg",
     "downloadUrl": "https://i.postimg.cc/qJYk84cV/photo-2025-06-16-11-10-23.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -211,7 +211,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/x8ShtxTH/photo-2025-06-16-11-11-14.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-11-14.jpg",
     "downloadUrl": "https://i.postimg.cc/DvWhfH9C/photo-2025-06-16-11-11-14.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -223,7 +223,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/MHMHmGHX/photo-2025-06-16-11-17-15.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-17-15.jpg",
     "downloadUrl": "https://i.postimg.cc/tqD6yZHd/photo-2025-06-16-11-17-15.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -235,7 +235,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/Twk5cScN/photo-2025-06-16-11-15-25.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-15-25.jpg",
     "downloadUrl": "https://i.postimg.cc/vYy7Gwxy/photo-2025-06-16-11-15-25.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -247,7 +247,7 @@ export const students: Student[] = [
     "age": 18,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/g29X43vp/photo-2025-06-16-11-16-20.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-16-20.jpg",
     "downloadUrl": "https://i.postimg.cc/vbTrYzT4/photo-2025-06-16-11-16-20.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -259,7 +259,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/FFW0bfWF/photo-2025-06-16-11-14-32.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-14-32.jpg",
     "downloadUrl": "https://i.postimg.cc/DFF5TL1G/photo-2025-06-16-11-14-32.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -271,7 +271,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/j25GCn1D/photo-2025-06-16-15-18-56.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-18-56.jpg",
     "downloadUrl": "https://i.postimg.cc/6WLwjdLf/photo-2025-06-16-15-18-56.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -283,7 +283,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/d0VyTw2Z/photo-2025-06-16-11-18-52.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-18-52.jpg",
     "downloadUrl": "https://i.postimg.cc/XnwcmvXL/photo-2025-06-16-11-18-52.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -295,7 +295,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/8CpCn4c2/photo-2025-06-16-11-18-07.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-18-07.jpg",
     "downloadUrl": "https://i.postimg.cc/jRNJ2kbS/photo-2025-06-16-11-18-07.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -307,7 +307,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/Z5JL2g1P/photo-2025-06-17-21-23-43.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-23-43.jpg",
     "downloadUrl": "https://i.postimg.cc/hcd3zRsY/photo-2025-06-17-21-23-43.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -319,7 +319,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/63jYw0xj/photo-2025-06-17-20-49-33.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-49-33.jpg",
     "downloadUrl": "https://i.postimg.cc/6WwSrjjX/photo-2025-06-17-20-49-33.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -331,7 +331,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/Nj69RjFB/photo-2025-06-17-20-47-20.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-47-20.jpg",
     "downloadUrl": "https://i.postimg.cc/8N3RQFVJ/photo-2025-06-17-20-47-20.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -343,7 +343,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/vBq6D2Bn/photo-2025-06-17-20-46-35.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-46-35.jpg",
     "downloadUrl": "https://i.postimg.cc/YrkNnJBd/photo-2025-06-17-20-46-35.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -355,7 +355,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/26DfhCqR/photo-2025-06-17-20-48-48.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-48-48.jpg",
     "downloadUrl": "https://i.postimg.cc/RM3VrF4F/photo-2025-06-17-20-48-48.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -367,7 +367,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/jqB4XCx7/photo-2025-06-17-20-48-04.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-48-04.jpg",
     "downloadUrl": "https://i.postimg.cc/CYxrwf9m/photo-2025-06-17-20-48-04.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -379,7 +379,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/J00ZqVgK/photo-2025-06-17-20-45-27.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-45-27.jpg",
     "downloadUrl": "https://i.postimg.cc/8pB4TTb8/photo-2025-06-17-20-45-27.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -391,7 +391,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/9fHPjkRF/photo-2025-06-17-20-44-40.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-44-40.jpg",
     "downloadUrl": "https://i.postimg.cc/09bV7R9m/photo-2025-06-17-20-44-40.jpg?dl=1",
     "telegram": "https://t.me/PMCM10",
     "instagram": "https://www.instagram.com/ap_eyosiyas"
@@ -403,7 +403,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/brRbpYnz/photo-2025-06-17-20-51-45.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-51-45.jpg",
     "downloadUrl": "https://i.postimg.cc/mLvS3t2F/photo-2025-06-17-20-51-45.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -415,7 +415,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/26bCF0Gh/photo-2025-06-17-20-43-48.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-43-48.jpg",
     "downloadUrl": "https://i.postimg.cc/mbVh4qFX/photo-2025-06-17-20-43-48.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -427,7 +427,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/CxZKhLTw/photo-2025-06-17-21-29-42.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-29-42.jpg",
     "downloadUrl": "https://i.postimg.cc/6tc4hyM4/photo-2025-06-17-21-29-42.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -439,7 +439,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/FsHR6VTd/photo-2025-06-17-21-28-54.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-28-54.jpg",
     "downloadUrl": "https://i.postimg.cc/yBFZkf9P/photo-2025-06-17-21-28-54.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -451,7 +451,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/50zv6qhN/photo-2025-06-17-21-25-18.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-25-18.jpg",
     "downloadUrl": "https://i.postimg.cc/yVQTpLn9/photo-2025-06-17-21-25-18.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -463,7 +463,7 @@ export const students: Student[] = [
     "age": 13,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/3Rxyr7dt/photo-2025-06-16-07-14-29.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-14-29.jpg",
     "downloadUrl": "https://i.postimg.cc/gYv3D2db/photo-2025-06-16-07-14-29.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -475,7 +475,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/Vk4rxdNJ/photo-2025-06-16-07-22-38.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-22-38.jpg",
     "downloadUrl": "https://i.postimg.cc/QjZQW7GJ/photo-2025-06-16-07-22-38.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -487,8 +487,8 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/CLF2FQNz/image-2.png",
-    "downloadUrl": "https://i.postimg.cc/CLF2FQNz/image-2.png?dl=1",
+    "imageUrl": "/images/students/image-2.png",
+    "downloadUrl": "/images/students/image-2.png?dl=1",
     "telegram": null,
     "instagram": null
   },
@@ -499,7 +499,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/zfcLf6K5/photo-2025-06-16-07-24-10.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-24-10.jpg",
     "downloadUrl": "https://i.postimg.cc/SyycgpKX/photo-2025-06-16-07-24-10.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -511,7 +511,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/7PXFT4bg/photo-2025-06-16-07-50-09.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-50-09.jpg",
     "downloadUrl": "https://i.postimg.cc/k9dqzXmh/photo-2025-06-16-07-50-09.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -523,7 +523,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/HshFBtwn/photo-2025-06-16-07-51-48.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-51-48.jpg",
     "downloadUrl": "https://i.postimg.cc/SkSqQTj6/photo-2025-06-16-07-51-48.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -535,7 +535,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/PJmN2qcr/photo-2025-06-16-07-25-19.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-25-19.jpg",
     "downloadUrl": "https://i.postimg.cc/dsfdQkjd/photo-2025-06-16-07-25-19.jpg?dl=1",
     "telegram": "https://t.me/HUBPROMAN",
     "instagram": "https://www.instagram.com/hubproman"
@@ -547,7 +547,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/X7Dynzh6/photo-2025-06-17-20-41-33.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-41-33.jpg",
     "downloadUrl": "https://i.postimg.cc/z8qwFmFv/photo-2025-06-17-20-41-33.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -559,7 +559,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/L4j3x2nQ/photo-2025-06-17-20-51-01.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-51-01.jpg",
     "downloadUrl": "https://i.postimg.cc/m45p2rR4/photo-2025-06-17-20-51-01.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -571,7 +571,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/W1q37b4h/photo-2025-06-17-20-55-09.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-55-09.jpg",
     "downloadUrl": "https://i.postimg.cc/CSmqSRTH/photo-2025-06-17-20-55-09.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -583,8 +583,8 @@ export const students: Student[] = [
     "age": 16,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/b80nV6m5/photo-2025-06-17-20-54-19.jpg",
-    "downloadUrl": "https://i.postimg.cc/b80nV6m5/photo-2025-06-17-20-54-19.jpg?dl=1",
+    "imageUrl": "/images/students/photo-2025-06-17-20-54-19.jpg",
+    "downloadUrl": "/images/students/photo-2025-06-17-20-54-19.jpg?dl=1",
     "telegram": null,
     "instagram": null
   },
@@ -595,7 +595,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/ZKz4MHDw/photo-2025-06-16-11-08-52.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-08-52.jpg",
     "downloadUrl": "https://i.postimg.cc/KFRj4s7h/photo-2025-06-16-11-08-52.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -607,7 +607,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/HLNC49y4/photo-2025-06-16-11-09-42.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-09-42.jpg",
     "downloadUrl": "https://i.postimg.cc/HpYsmSW-K/photo-2025-06-16-11-09-42.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -619,7 +619,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/pTRSpcHG/photo-2025-06-16-07-52-57.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-52-57.jpg",
     "downloadUrl": "https://i.postimg.cc/zJgY24Pr/photo-2025-06-16-07-52-57.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -631,7 +631,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/4NBbS72S/photo-2025-06-16-09-21-43.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-21-43.jpg",
     "downloadUrl": "https://i.postimg.cc/5bM7j8Bb/photo-2025-06-16-09-21-43.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -643,7 +643,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/W3G06hJS/photo-2025-06-16-09-23-54.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-23-54.jpg",
     "downloadUrl": "https://i.postimg.cc/BqyN3FZW/photo-2025-06-16-09-23-54.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -655,7 +655,7 @@ export const students: Student[] = [
     "age": 16,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/C5Zs1bzr/photo-2025-06-16-07-59-16.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-59-16.jpg",
     "downloadUrl": "https://i.postimg.cc/KGfq0NFb/photo-2025-06-16-07-59-16.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -667,7 +667,7 @@ export const students: Student[] = [
     "age": 16,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/1RTKd7jk/photo-2025-06-16-08-00-14.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-08-00-14.jpg",
     "downloadUrl": "https://i.postimg.cc/37rbdPCx/photo-2025-06-16-08-00-14.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -679,7 +679,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/FRVJk82B/photo-2025-06-16-09-25-12.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-25-12.jpg",
     "downloadUrl": "https://i.postimg.cc/J193vWKM/photo-2025-06-16-09-25-12.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -691,7 +691,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/qvDh82Dp/photo-2025-06-16-09-11-14.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-11-14.jpg",
     "downloadUrl": "https://i.postimg.cc/JRMNCqbH/photo-2025-06-16-09-11-14.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -703,7 +703,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/4dx1DDZg/photo-2025-06-16-07-58-22.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-58-22.jpg",
     "downloadUrl": "https://i.postimg.cc/csQ5nWbr/photo-2025-06-16-07-58-22.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -715,7 +715,7 @@ export const students: Student[] = [
     "age": 16,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/13DMw0ML/photo-2025-06-16-07-57-21.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-57-21.jpg",
     "downloadUrl": "https://i.postimg.cc/KxHVXJTv/photo-2025-06-16-07-57-21.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -727,7 +727,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/x87gytwS/photo-2025-06-16-07-56-20.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-07-56-20.jpg",
     "downloadUrl": "https://i.postimg.cc/c11jWzT6/photo-2025-06-16-07-56-20.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -739,7 +739,7 @@ export const students: Student[] = [
     "age": 13,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/ZRC1WzBT/photo-2025-06-16-09-19-11.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-19-11.jpg",
     "downloadUrl": "https://i.postimg.cc/csmZ5sd8/photo-2025-06-16-09-19-11.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -751,7 +751,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/fysj6xh6/photo-2025-06-16-09-20-42.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-20-42.jpg",
     "downloadUrl": "https://i.postimg.cc/54Y7Q3KN/photo-2025-06-16-09-20-42.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -763,7 +763,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/VLSXWLQn/photo-2025-06-16-15-31-20.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-31-20.jpg",
     "downloadUrl": "https://i.postimg.cc/Wj8Sjh5W/photo-2025-06-16-15-31-20.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -775,7 +775,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/0yj2ZG8k/photo-2025-06-16-15-35-19.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-35-19.jpg",
     "downloadUrl": "https://i.postimg.cc/7wMGHXd2/photo-2025-06-16-15-35-19.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -787,7 +787,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/W3Hhdg4K/photo-2025-06-16-15-33-18.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-33-18.jpg",
     "downloadUrl": "https://i.postimg.cc/kJn8hyPn/photo-2025-06-16-15-33-18.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -799,7 +799,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/ht18fZR5/photo-2025-06-16-15-34-26.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-34-26.jpg",
     "downloadUrl": "https://i.postimg.cc/NBWdCZJB/photo-2025-06-16-15-34-26.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -811,7 +811,7 @@ export const students: Student[] = [
     "age": 16,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/7YrWpcHC/photo-2025-06-16-15-25-15.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-25-15.jpg",
     "downloadUrl": "https://i.postimg.cc/V1JPbQ2F/photo-2025-06-16-15-25-15.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -823,7 +823,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/GtLsDdP8/photo-2025-06-16-15-26-17.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-26-17.jpg",
     "downloadUrl": "https://i.postimg.cc/VfM93NdR/photo-2025-06-16-15-26-17.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -835,7 +835,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/wjqyb6nw/photo-2025-06-16-15-37-39.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-37-39.jpg",
     "downloadUrl": "https://i.postimg.cc/VmMqvvgP/photo-2025-06-16-15-37-39.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -847,7 +847,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/kMSnQkYD/photo-2025-06-16-15-27-22.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-27-22.jpg",
     "downloadUrl": "https://i.postimg.cc/hnyfBn98/photo-2025-06-16-15-27-22.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -859,7 +859,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/X7VdxFMX/photo-2025-06-17-20-52-29.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-52-29.jpg",
     "downloadUrl": "https://i.postimg.cc/6wZcWLYV/photo-2025-06-17-20-52-29.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -871,7 +871,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/Dzp7pKtG/photo-2025-06-16-11-07-56.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-07-56.jpg",
     "downloadUrl": "https://i.postimg.cc/qk4gRJw1/photo-2025-06-16-11-07-56.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -883,7 +883,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/1Xfs1Y1d/photo-2025-06-16-11-05-03.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-05-03.jpg",
     "downloadUrl": "https://i.postimg.cc/wqkvJSf9/photo-2025-06-16-11-05-03.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -895,7 +895,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/T3Zy7ggG/photo-2025-06-16-11-04-05.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-04-05.jpg",
     "downloadUrl": "https://i.postimg.cc/0Q7v0kX2/photo-2025-06-16-11-04-05.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -907,7 +907,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/C5FSrLcw/photo-2025-06-16-10-53-38.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-10-53-38.jpg",
     "downloadUrl": "https://i.postimg.cc/4fcydYtH/photo-2025-06-16-10-53-38.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -919,7 +919,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/PxJPNJQP/photo-2025-06-16-09-33-55.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-33-55.jpg",
     "downloadUrl": "https://i.postimg.cc/F9gcWJfg/photo-2025-06-16-09-33-55.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -931,7 +931,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/vBTvrWsy/photo-2025-06-16-10-57-43.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-10-57-43.jpg",
     "downloadUrl": "https://i.postimg.cc/qkXZdLDN/photo-2025-06-16-10-57-43.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -943,7 +943,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/qqnDK8sR/photo-2025-06-16-10-58-57.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-10-58-57.jpg",
     "downloadUrl": "https://i.postimg.cc/hDZkHsh9/photo-2025-06-16-10-58-57.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -955,7 +955,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/yNqJQ7KG/photo-2025-06-16-09-26-01.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-26-01.jpg",
     "downloadUrl": "https://i.postimg.cc/pPrDdd6P/photo-2025-06-16-09-26-01.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -967,7 +967,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/QNndYjkq/photo-2025-06-16-09-27-26.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-27-26.jpg",
     "downloadUrl": "https://i.postimg.cc/0x9KQQzh/photo-2025-06-16-09-27-26.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -979,7 +979,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/rwRjRygZ/photo-2025-06-16-09-31-55.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-09-31-55.jpg",
     "downloadUrl": "https://i.postimg.cc/vb3Njcny/photo-2025-06-16-09-31-55.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -991,7 +991,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/W4BMkxXG/photo-2025-06-16-11-02-24.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-11-02-24.jpg",
     "downloadUrl": "https://i.postimg.cc/SysVwh9v/photo-2025-06-16-11-02-24.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1003,7 +1003,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/T1gHKj9Y/photo-2025-06-16-15-24-19.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-24-19.jpg",
     "downloadUrl": "https://i.postimg.cc/tqM0m2nP/photo-2025-06-16-15-24-19.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1015,7 +1015,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/4NpryGLb/photo-2025-06-16-15-23-03.jpg",
+    "imageUrl": "/images/students/photo-2025-06-16-15-23-03.jpg",
     "downloadUrl": "https://i.postimg.cc/rcHchF5b/photo-2025-06-16-15-23-03.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1027,7 +1027,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/nrkXDd0Z/photo-2025-06-17-21-27-12.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-27-12.jpg",
     "downloadUrl": "https://i.postimg.cc/RCrK2yt3/photo-2025-06-17-21-27-12.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1039,7 +1039,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/nLDMkV03/photo-2025-06-17-21-27-58.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-27-58.jpg",
     "downloadUrl": "https://i.postimg.cc/5fPvf6vW/photo-2025-06-17-21-27-58.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1051,7 +1051,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/1z5yjmmG/photo-2025-06-17-21-00-37.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-00-37.jpg",
     "downloadUrl": "https://i.postimg.cc/1yD44Xbj/photo-2025-06-17-21-00-37.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1063,7 +1063,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/Ghwd1J3h/photo-2025-06-17-21-01-26.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-01-26.jpg",
     "downloadUrl": "https://i.postimg.cc/LRhXLNrf/photo-2025-06-17-21-01-26.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1075,7 +1075,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/d38M0pQQ/photo-2025-06-17-21-02-20.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-02-20.jpg",
     "downloadUrl": "https://i.postimg.cc/Fr6hTX2S/photo-2025-06-17-21-02-20.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1087,7 +1087,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/K87Xbdq0/photo-2025-06-17-20-58-29.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-58-29.jpg",
     "downloadUrl": "https://i.postimg.cc/PT9dWHmn/photo-2025-06-17-20-58-29.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1099,7 +1099,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/ht4FS2kg/photo-2025-06-17-21-03-03.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-03-03.jpg",
     "downloadUrl": "https://i.postimg.cc/fDmMfF53/photo-2025-06-17-21-03-03.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1111,7 +1111,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Male",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/FzkqBqkg/photo-2025-06-17-20-59-09.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-59-09.jpg",
     "downloadUrl": "https://i.postimg.cc/hD2BfRSw-/photo-2025-06-17-20-59-09.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1123,7 +1123,7 @@ export const students: Student[] = [
     "age": 13,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/RZ1cTRh3/photo-2025-06-17-21-22-01.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-22-01.jpg",
     "downloadUrl": "",
     "telegram": null,
     "instagram": null
@@ -1135,7 +1135,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/C5LFWwsT/photo-2025-06-17-21-30-49.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-30-49.jpg",
     "downloadUrl": "https://i.postimg.cc/4fpmHdKd/photo-2025-06-17-21-30-49.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1147,7 +1147,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Male",
     "section": "9B",
-    "imageUrl": "https://i.postimg.cc/k4LcH5mD/photo-2025-06-17-21-23-02.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-21-23-02.jpg",
     "downloadUrl": "https://i.postimg.cc/KG8HRKp7/photo-2025-06-17-21-23-02.jpg?dl=1",
     "telegram": "https://t.me/Yosef_meh0",
     "instagram": "https://www.instagram.com/yosef_meh1"
@@ -1159,7 +1159,7 @@ export const students: Student[] = [
     "age": 16,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/MpYW5MSZ/photo-2025-06-17-20-59-51.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-59-51.jpg",
     "downloadUrl": "https://i.postimg.cc/2rsVzh9W/photo-2025-06-17-20-59-51.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1171,7 +1171,7 @@ export const students: Student[] = [
     "age": 15,
     "gender": "Female",
     "section": "9A",
-    "imageUrl": "https://i.postimg.cc/4NmNJNVB/photo-2025-06-17-20-56-46.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-56-46.jpg",
     "downloadUrl": "https://i.postimg.cc/QsqBJFtG/photo-2025-06-17-20-56-46.jpg?dl=1",
     "telegram": null,
     "instagram": null
@@ -1183,7 +1183,7 @@ export const students: Student[] = [
     "age": 14,
     "gender": "Female",
     "section": "9C",
-    "imageUrl": "https://i.postimg.cc/FRHXDDxD/photo-2025-06-17-20-57-37.jpg",
+    "imageUrl": "/images/students/photo-2025-06-17-20-57-37.jpg",
     "downloadUrl": "https://i.postimg.cc/08p554KR/photo-2025-06-17-20-57-37.jpg?dl=1",
     "telegram": null,
     "instagram": null
